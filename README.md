@@ -1,2 +1,2 @@
 # test_download_firmware
-test build
+ricambio ultima volta per essere sicuro
